@@ -1,19 +1,52 @@
 # The Windsor Diaries
 
-I moved here in 2021, and I'm not sure if I'm going to stay or go.
+To be honest, I really didn't have much of a choice to move here.
 
-It all depends on what I can do here.
+I moved to Windsor, Colorado in June of 2021, because it was the best option for me. I had recently come out as transgender, but my parents were on the verge of disowning me for being (and they eventually did). I didn't have any money to leave my family. I had no ability to work because I needed time to process the past. 
+
+Then I met a person, who I had never met or talked to, and he offered to let me stay in his house for a very low price: cooking in exchange for rent. One zoom call later, I bought a ticket from Los Angeles. A month later, I landed in Denver, got picked up, and headed to Windsor for a chance at some peace and quiet.
+
+Hopefully, I'll be able to get a software engineering job soon. If my math is right, I'll no longer be in debt by the end of 2023. I'll have my bottom surgery by the end of 2024, and by the end of 2025, I'll have enough money to actually choose where I want to live.
+
+I'm still not sure if I'm going to stay in this town.  It all depends on what I can do here.
 
 Can I get this town to welcome the poor, can I get this town to welcome minorities?
 
-I could fill up pages and pages with how angry I am at the locals who are trying to keep them out. I probably will, but I also have to keep in mind that winning the hearts and minds of this town involves both facts and feelings.
+See, one tricky part is that it's hard to even *talk* about how [racism has affected the policies of this town.](https://www.kqed.org/news/11840548/the-racist-history-of-single-family-home-zoning)
 
-The challenge is to weave them both in a coherent, elegant, welcoming way.
+Let me be absolutely clear, here: not everyone who disagrees is racist. However, it is very possible to accidentally support an oppressive policy.
+
+Getting that across is part of the challenge.
+
+# Hard break
+
+the rest of this site doesn't follow a strict line of reasoning. it's mostly summaries of discussions i've had with other people.
 
 
-# Hard Break
+## A Sustainable Windsor Is A Denser Windsor
 
-The rest of this page is organized in a 
+## A Denser Windsor Is A Healthier Windsor 
+
+## The Small Town Feel 
+
+It's possible to have a small-town feel while also having density! See [this video.](https://twitter.com/edwardlamb/status/1573228176217722880?t=ZiVfNj9ye42Dw525ZicSLQ&s=19)
+
+## The Parking
+
+1. You don't need to drive a car to get everywhere if things are closer together.
+
+2. If you're not dense enough for busses, try [minivan fleets!](https://www.npr.org/2022/07/19/1111765630/on-demand-shuttles-have-replaced-buses-in-a-small-north-carolina-town)
+
+
+## The Crime Rates
+
+1. Crime rates don't necessarily correlate with density. Looking at crime rates on a city level is misleading because crime isn't evenly distributed across the entire region.
+
+2. You think that crime is more frequent in urban areas, but it might just be because [people are more likely to report a crime in urban areas.](https://drive.google.com/file/d/15MphYRu66Zspv5IKhBKR-CjYuzVb3u5J/view?usp=drivesdk)
+
+## The Land Value
+
+Building more density does not [hurt the value of your single-family home.](https://drive.google.com/file/d/1CAjpdHg38B5sIs-ijxQp_MAQHfCXN4ar/view?usp=drivesdk)
 
 ## The Apartments
 
@@ -46,21 +79,14 @@ Housing prices go up, and the poor lose out. But hey, at least the upper-middle 
 
 It would be such a tragedy if they had to park a bit further away to walk to the lake - or, god forbid, carpool.
 
-## But My Parking
+## Famine, Affluence, and Morality
 
-1. You don't need to drive a car to get everywhere if things are closer together.
+Peter Singer posits a hypothetical: "Would you ruin your clothes to save a child from drowning?"
 
-2. If you're not dense enough for busses, try [minivan fleets!](https://www.npr.org/2022/07/19/1111765630/on-demand-shuttles-have-replaced-buses-in-a-small-north-carolina-town)
+And he carries on that line of conversation, starting with the premise that yes, we *would* be willing to sacrifice a bit of our own comfort to improve the lives of others.
 
-## But Crime Rates
+So if we're willing to do that to help someone nearby, why not sacrifice to help someone far away?
 
-1. Crime rates don't necessarily correlate with density. Looking at crime rates on a city level is misleading because crime isn't evenly distributed across the entire region.
-
-2. You think that crime is more frequent in urban areas, but it might just be because [people are more likely to report a crime in urban areas.](https://drive.google.com/file/d/15MphYRu66Zspv5IKhBKR-CjYuzVb3u5J/view?usp=drivesdk)
-
-## But My Small Town Feel 
-
-It's possible to have a small-town feel while also having density! See [this video.](https://twitter.com/edwardlamb/status/1573228176217722880?t=ZiVfNj9ye42Dw525ZicSLQ&s=19)
 
 ## More Stuff At Windsor
 
@@ -72,16 +98,6 @@ It's possible to have a small-town feel while also having density! See [this vid
  - [Transportation](https://hackmd.io/@standardyang/notjustbusses)
  - Wealth and Privilege 
  - Upzone Village East
-
-# Things I've Read
-
-### Famine, Affluence, and Morality
-
-Peter Singer posits a hypothetical: "Would you ruin your clothes to save a child from drowning?"
-
-And he carries on that line of conversation, starting with the premise that yes, we *would* be willing to sacrifice a bit of our own comfort to improve the lives of others.
-
-So if we're willing to do that to help someone nearby, why not sacrifice to help someone far away?
 
 
 # Good Shows and Movies
@@ -102,16 +118,16 @@ Are You Afraid Of God?
 No, I'm Afraid Of You.
 ```
 
-There is this phrase that I keep hearing many variations of: "I worked for everything I got, so everyone else should have to too". Notably, many of those people were privileged enough to be born on the right side of the border, in the right place, in the right time, in the right skin color. Other people work just as hard as them, but circumstances mean that they're not in the same position in life.
+There's this phrase that I keep hearing many variations of: "I worked for everything I got, so everyone else should have to, too". 
+
+Notably, many of those people were privileged enough to be born on the right side of the border, in the right place, in the right time, in the right skin color. Other people work just as hard as them, but circumstances mean that they're not in the same position in life.
+
 
 The Bioshock series shows worlds where this sentiment is the commanding mantra, and shows the pain and suffering that it brings. What happens in a world run by men with these ideas?
 
-# Contact Me
+# Other Ways To Find Me
 
 standardvyang@gmail.com
-
-[Facebook](https://www.facebook.com/uncamioneto)
-
 # Inbox
 
 [https](https://twitter.com/BrentToderian/status/1583169414454972416?t=5whzEPDi7qqyTs2Pzgn1fg&s=19)
