@@ -1,14 +1,16 @@
 # The Windsor Diaries
 
-To be honest, I really didn't have much of a choice to move here.
+To be honest, I really didn't have much of a choice in moving here.
 
-I moved to Windsor, Colorado in June of 2021, because it was the best option for me. I had recently come out as transgender, but my parents were on the verge of disowning me for being (and they eventually did). I didn't have any money to leave my family. I had no ability to work because I needed time to process the past. 
+Basically I moved to Windsor, Colorado in June 2021 because it was the best option for me. I'd come out as trans in 2020, which put them on the verge of disowning me, which they eventually did. 
 
-Then I met a person, who I had never met or talked to, and he offered to let me stay in his house for a very low price: cooking in exchange for rent. One zoom call later, I bought a ticket from Los Angeles. A month later, I landed in Denver, got picked up, and headed to Windsor for a chance at some peace and quiet.
+Anyway, the awkward part was that I didn't have any money to leave my family. Plus I had no ability to work because I needed time to process the past. 
 
-Hopefully, I'll be able to get a software engineering job soon. If my math is right, I'll no longer be in debt by the end of 2023. I'll have my bottom surgery by the end of 2024, and by the end of 2025, I'll have enough money to actually choose where I want to live.
+But then I met a person online, who I had never met or talked to before, and he offered to let me stay in his house for a very low price: cooking in exchange for rent. One zoom call later, I bought a ticket from Los Angeles. A month later, I landed in Denver, got picked up, and headed to Windsor for a chance at some peace and quiet.
 
-I'm still not sure if I'm going to stay in this town.  It all depends on what I can do here.
+Hopefully, I'll be able to get a software engineering job soon. If my math is right, I'll no longer be in debt by the end of 2023. After my bottom surgery at the end of 2024, I won't have as much daily physical pain. By the end of 2025, I'll have enough money to actually choose where I want to live.
+
+At the time of writing, I'm still not sure if I'll end up choosing to stay or deciding to go. Really, it all depends on what I can do here.
 
 Can I get this town to welcome the poor, can I get this town to welcome minorities?
 
@@ -20,7 +22,7 @@ Getting that across is part of the challenge.
 
 # Hard break
 
-the rest of this site doesn't follow a strict line of reasoning. it's mostly summaries of discussions i've had with other people.
+the rest of this site is less organized. it's mostly summaries of discussions i've had with other people.
 
 
 ## A Sustainable Windsor Is A Denser Windsor
