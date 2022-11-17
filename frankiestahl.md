@@ -3,7 +3,9 @@
 
 ### Introduction
 
-I feel the need to defend myself because **Frankie Stahl, a 53-year-old homeowner in one of Windsor's richest neighborhoods**, has been **bullying** **me,** **a transgender Asian woman less than half her age.**  I don't have money. I am a humble renter in this town and all I have are my words and my reputation.
+What I want to do in this town is fix the racism and legalize affordable housing. I just want to get back to that and not have to worry about this person.
+
+**Frankie Stahl, a 53-year-old homeowner in one of Windsor's richest neighborhoods**, has been **bullying** **me,** **a transgender Asian woman less than half her age.**  My net worth is *negative*. I am a humble renter in this town and all I have are my words and my reputation.
 
 
 I don't know what to do to get her to stop, and I have done nothing wrong.
@@ -23,8 +25,6 @@ A few days ago on NextDoor, I had made a post discussing my experience with [rac
 And to be clear: I have met this woman a total of one time in my life. Every single conversation on NextDoor we have had, she initiated. **I attempted to privately distance myself from her because of her racial insensitivity and she** **retaliated**.
 
 I never should have done her the service of explaining why I was breaking our friendship. I should have ghosted her because it's clear she cannot handle people establishing boundaries.
-
-**What I want to do** in this town is fix the racism and build more affordable housing. I just want to get back to that and not have to worry about this person.
 
 And so, I wrote this text (which linked to an earlier version of this page) which you will find below, and I sent the link to her in the hopes that she will leave me alone.
 
