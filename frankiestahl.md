@@ -6,7 +6,7 @@
 ### Contents
 
 - Introduction
-- [Association With Known Bigots](#Point-2-You-Frankie-Stahl-are-complicit-in-bigotry)
+- [Association With Known Bigots and Racists](#Point-2-You-Frankie-Stahl-are-complicit-in-bigotry)
 - [Privilege](#An-Open-Letter-to-Frankie-Stahl)
 - [Race Fragility](#Point-1-I-Standard-Duong-have-no-time-for-white-fragility)
 
@@ -77,9 +77,9 @@ Once again, I repeat: I, **Standard Duong**, have no time for *white fragility*.
 
 ### Point 2: You, Frankie Stahl, are *complicit* in bigotry.
 
-This does not mean that you are engaging in bigotry. This means that you *stand by* and *let it happen*. Not only that, you associate yourself with people who have no interest in learning tolerance.
+This does not mean that you are engaging in bigotry. This means that you *stand by* and *let it happen*. Not only that, you associate yourself with people who have expressed no interest in learning tolerance.
 
-At the time of writing, you are a member of the Conservatives of Windsor. The COWs have engaged in bigotry. There are many examples of such. These are not isolated incidents, as Gary Doering is in charge of the group and even participated in some of this hate speech.
+At the time of writing, you are a member of the ~~Confederates~~ Conservatives of Windsor. The COWs have engaged in bigotry. There are many examples of such. These are not isolated incidents, as Gary Doering is in charge of the group and even participated in some of this hate speech.
 
 These were all **publicly visible posts** which have been made in the group.
 
