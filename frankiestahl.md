@@ -1,11 +1,25 @@
 # Please Stop Harassing Me, Frankie Stahl
 ### Written by Standard Duong
 
+---
+
+### Contents
+
+- Introduction
+- [Association With Known Bigots](#Point-2-You-Frankie-Stahl-are-complicit-in-bigotry)
+- [Privilege](#An-Open-Letter-to-Frankie-Stahl)
+- [Race Fragility](#Point-1-I-Standard-Duong-have-no-time-for-white-fragility)
+
+
+---
+
 ### Introduction
+
+I didn't want to write a public statement, but Frankie has mocked, bullied, and harassed me to the point where I have to.
 
 What I want to do in this town is fix the racism and legalize affordable housing. I just want to get back to that and not have to worry about this person.
 
-**Frankie Stahl, a 53-year-old homeowner in one of Windsor's richest neighborhoods**, has been **bullying** **me,** **a transgender Asian woman less than half her age.**  My net worth is *negative*. I am a humble renter in this town and all I have are my words and my reputation.
+**Frankie Stahl, a white-passing 53-year-old homeowner in one of Windsor's richest neighborhoods**, has been **bullying** **me,** **a transgender Asian woman less than half her age.**  My net worth is *negative*. I am a humble renter in this town and all I have are my words and my reputation.
 
 
 I don't know what to do to get her to stop, and I have done nothing wrong.
@@ -14,7 +28,7 @@ I don't feel safe because she is on the local review team, and she's been respon
 
 **I have never, ever engaged with her in a political conversation unless she initiated it first**. She had given me her phone number and we had had coffee to discuss zoning policy once. Since the very beginning, I have been making posts about inclusion and diversity, and she has been responding to them with defenses of exclusion and homogeneity.
 
-It was only after she had lashed out and got angry at me for discussing the existence of racism in the town of Windsor, that I sent her a [**private** text message telling her that I was cutting her out of my life, in part due to her extreme defensiveness and hostility to discussing racial equality.](https://i.imgur.com/oNGX5vd.jpg) I attempted to end this friendship which had made me feel deeply uncomfortable. Out of respect for a former friend, I chose to do this in a *quiet* and *private* manner. I spoke to nobody about this conflict, until Frankie Stahl escalated it to the public sphere.
+It was only after she had lashed out and got angry at me for discussing the existence of racism in the town of Windsor, that I sent her a [**private** text message telling her that I was cutting her out of my life, in part due to her extreme defensiveness and hostility to discussing racial equality.](https://i.imgur.com/oNGX5vd.jpg) I attempted to end this friendship which had made me feel deeply uncomfortable. Out of respect for a former friend, I spoke to nobody about this conflict - until Frankie Stahl escalated it to the public sphere.
 
 She proceeded to **publicly** post about this social conflict and accuse me of stirring up drama. This is why I am now publicly posting about this, because **Frankie Stahl has escalated it and put me in a position where I must defend myself.**
 
@@ -56,7 +70,7 @@ I add to that definition: the mere suggestion that one could accidentally be abe
 Once again, I repeat: I, **Standard Duong**, have no time for *white fragility*. I am not privileged enough to spend my time coddling the emotions of privileged people in order to get them to listen. They can afford the time and money to actually afford professional and academic help with their misconceptions. I have to work to feed myself. I have to work to save my friends in poverty. 
 
 **Why** would I bother spending my free time, *giving free therapy* to a *very privileged person?* 
-**Why** would I subject myself to the *indignities* of walking on eggshells, for free?
+**Why** would I subject myself to the *indignities* of walking on eggshells, for free?  
 **Finally, why**  would I do it for someone who associates with *known bigots*?
 
 ---
@@ -97,7 +111,7 @@ By restricting housing supply in this town, you are keeping housing prices high 
 
 I have nothing to apologize for. You literally demanded I respond to you publicly, and I have. You mocked me for not responding. You, a woman twice my age, called me lost for not publicly posting a response to your accusations. 
 
-You scare me because of your extreme aversion to discussing racism and by the company you keep. I cannot be your friend, because many of **the people you associate with** **are a** **threat** **to the people I love.**
+You scare me because of your extreme aversion to discussing racism and by the company you keep. I cannot be your friend, because many of **the people you associate with** **are a** **threat** **to the people I love, and are a threat to the tired, the poor, and the huddled masses.** 
 
 This is the explanation which you have **extracted** from me through harassment. You got what you wanted, so stop harassing me, Frankie Stahl. 
 
